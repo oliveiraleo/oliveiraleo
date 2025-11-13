@@ -5,7 +5,13 @@
 
 ## Contact Info
 
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 - Telegram: `@leo_http`
+
+<!--![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
+- Matrix: `TBD`-->
+
+![Tuta Mail](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)
 - E-mail: `{my-github-username}@tuta.io`
 
 ## GPG Keys
