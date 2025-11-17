@@ -11,6 +11,16 @@ I'm Leonardo.
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraleo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
+## Scientific Research
+
+- [Lattes CV](http://lattes.cnpq.br/7749238753232176) ([?](http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/Proj_Lattes.html#about))
+- [Google Scholar](https://scholar.google.com/citations?user=YPUvw8QAAAAJ)
+- [Arxiv](https://arxiv.org/search/cs?query=Leonardo+Azalim+de+Oliveira&searchtype=author)
+- [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Azalim%20de%20Oliveira,%20Leonardo%22)
+- [ORCID](https://orcid.org/0000-0003-0519-0934)
+
+<!--![](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)-->
+
 ## Contact Info
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
