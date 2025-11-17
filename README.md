@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm Leonardo.
+Hi there, I'm Leo 🦁
 
 - **Linux Enthusiast:** Long-time user of various [Linux distributions](#linux) with considerable sysadmin experience.
 - **Open Source Advocate:** Actively collaborate on Free and Open Source Software (FOSS) projects that I utilize, and, when possible, contribute my own software as FOSS.
