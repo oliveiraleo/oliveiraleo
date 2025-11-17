@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Leonardo.
+
+- **Linux Enthusiast:** Long-time user of various Linux distributions with considerable sysadmin experience.
+- **Open Source Advocate:** Actively collaborate on Free and Open Source Software (FOSS) projects that I utilize, and, when possible, contribute my own software as FOSS.
+- **Aspiring Researcher:** Currently pursuing studies to become a professional researcher.
+- **Passionate about Open Science and Open Education:** Interested in promoting accessible knowledge and resources.
+
+## GitHub Stats
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraleo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
