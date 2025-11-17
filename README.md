@@ -1,4 +1,4 @@
-Hi there, I'm Leonardo
+## Hi there, I'm Leonardo 👋
 
 - **Linux Enthusiast:** Long-time user of various [Linux distributions](#linux) with considerable sysadmin experience.
 - **Open Source Advocate:** Actively collaborate on Free and Open Source Software (FOSS) projects that I utilize, and, when possible, contribute my own software as FOSS.
@@ -82,4 +82,3 @@ I frequently use GPG keys to sign my commits, check my keys below
 | - | -  | - |
 | 684491CE1465D3C3 | 2022-04-06 (06 April 2022) | 2025-09-16 (16 September 2025) |
 | 5CB999A8F8F887E9 | 2025-10-22 (22 October 2025) | - (currently in use) |
-
