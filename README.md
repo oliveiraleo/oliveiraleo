@@ -2,10 +2,10 @@
 
 I'm Leonardo.
 
-- **Linux Enthusiast:** Long-time user of various Linux distributions with considerable sysadmin experience.
+- **Linux Enthusiast:** Long-time user of various [Linux distributions](#linux) with considerable sysadmin experience.
 - **Open Source Advocate:** Actively collaborate on Free and Open Source Software (FOSS) projects that I utilize, and, when possible, contribute my own software as FOSS.
-- **Aspiring Researcher:** Currently pursuing studies to become a professional researcher.
-- **Passionate about Open Science and Open Education:** Interested in promoting accessible knowledge and resources.
+- **Aspiring Researcher:** Currently pursuing studies to become a [professional researcher](#scientific-research).
+- **Passionate about Open Science and Open Education:** Interested in promoting accessible knowledge and [resources](https://gitlab.com/groups/oliveiraleo-docs/-/shared).
 
 ## Skills and Technologies
 
