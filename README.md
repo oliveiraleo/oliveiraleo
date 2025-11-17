@@ -1,4 +1,4 @@
-Hi there, I'm Leo 🦁
+Hi there, I'm Leonardo
 
 - **Linux Enthusiast:** Long-time user of various [Linux distributions](#linux) with considerable sysadmin experience.
 - **Open Source Advocate:** Actively collaborate on Free and Open Source Software (FOSS) projects that I utilize, and, when possible, contribute my own software as FOSS.
@@ -62,6 +62,8 @@ Hi there, I'm Leo 🦁
 <!--![](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)-->
 
 ## Contact Info
+
+🦁 **Fun fact:** I go by my nickname, Leo, which many people use to call me.
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 - Telegram: `@leo_http`
