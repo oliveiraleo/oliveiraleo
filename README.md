@@ -7,6 +7,48 @@ I'm Leonardo.
 - **Aspiring Researcher:** Currently pursuing studies to become a professional researcher.
 - **Passionate about Open Science and Open Education:** Interested in promoting accessible knowledge and resources.
 
+## Skills and Technologies
+
+### Linux
+
+| Desktop | Server | IoT |
+|-|-|-|
+| ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white) |
+| ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | |
+| ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white) | TrueNAS | |
+| ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) | OPNsense | |
+| ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) | pfSense | |
+
+### Programming Languages
+
+| General-purpose | UNIX Automation |
+|-|-|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
+### Python Libraries
+
+| Machine Learning | Data Manipulation | Data Visualization |
+|-|-|-|
+| ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
+| | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | Seaborn |
+
+### Git
+
+| Code Versioning | CI/CD |
+|-|-|
+| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=fff) |
+| ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) |
+
+### Misc
+
+| Markup Language | CMS ([?](https://en.wikipedia.org/wiki/Content_management_system)) | Code Editor |
+|-|-|-|
+| ![Overlef](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) | ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| ![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?style=for-the-badge&logo=latex&logoColor=fff) | |
+| ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) |  |
+
 ## GitHub Stats
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraleo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
