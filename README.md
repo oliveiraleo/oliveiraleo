@@ -5,6 +5,46 @@
 - **Aspiring Researcher:** Currently pursuing studies to become a [professional researcher](#scientific-research).
 - **Passionate about Open Science and Open Education:** Interested in promoting accessible knowledge and [resources](https://gitlab.com/groups/oliveiraleo-docs/-/shared).
 
+## My FOSS Projects
+
+<details>
+
+<summary> Click to expand My FOSS Projects</summary>
+
+### 5G (CS MSc)
+
+#### Automation
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=free5gc-auto-deploy&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=PCAP-dataExtractor&theme=dark)
+
+#### Machine Learning
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=netlabufjf&repo=nwdaf_ml&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=mnc_NWDAF&theme=dark)
+
+### LoRa / LoRaWAN (CS BSc)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=LoRa-RSSI-dataset-outdoor&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=LoRa-RSSI-Grabber&theme=dark)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=RSSignal-LoRa&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=LoRa&theme=dark)
+
+### Info Sec Pentest Prototype (CS BSc)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=DCC075-Seguranca-Final_Work&theme=dark)
+
+### Game Development Prototypes (CS BSc)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=DCC148-Dodger_Reloaded&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oliveiraleo&repo=CG-T3&theme=dark)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rsilvoliveira&repo=DCC148_River_Raid&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rsilvoliveira&repo=DCC148_Critital_Velocity_Riders&theme=dark)
+
+</details>
+
 ## Skills and Technologies
 
 <details>
