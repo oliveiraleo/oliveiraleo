@@ -3,7 +3,7 @@
  - **Linux Enthusiast:** Long-time user of various [Linux distributions](#skills-and-technologies) with considerable sysadmin experience. 
 - **Open Source Advocate:** Actively collaborate on Free and Open Source Software (FOSS) projects that I utilize, and, when possible, contribute [my own software](#my-foss-projects) as FOSS.
 - **Aspiring Researcher:** Currently pursuing studies to become a [professional researcher](#scientific-research).
-- **Passionate about Open Science and Open Education:** Interested in promoting accessible knowledge and [resources](https://gitlab.com/groups/oliveiraleo-docs/-/shared).
+- **Passionate about Open Science and Open Education:** Interested in promoting [accessible knowledge](https://github.com/oliveiraleo?tab=stars) and [resources](https://gitlab.com/groups/oliveiraleo-docs/-/shared).
 
 ## My FOSS Projects
 
